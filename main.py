@@ -1,6 +1,7 @@
 import telebot
 import pyjokes
 
+print("hii")
 # Replace 'YOUR_BOT_TOKEN' with your actual bot token obtained from BotFather
 TOKEN = '6522032039:AAHrpyL0uJ6vOIGQRHlKi_g7dg0ty8QogRI'
 

@@ -1,0 +1,2 @@
+telebot==0.6.6
+pyjokes==0.6.0
